@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "21fd34a88e955d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12cc41022d90a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9cbcb5042a1a60",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4434ab8311de301",
+    "type": "split",
+    "children": [
+      {
+        "id": "22de600e77ffc6be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf59f905e6ef0c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6b72b0d4a6a6e90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d93b30f7b8ca04b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8dd260e85a5b276d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc4b006e1a7f259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6550ba32903d3055",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c69be3df10e403a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25bf5739ea8daedf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23b4f2ec46735e82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8bf59f905e6ef0c4",
+  "lastOpenFiles": [
+    "技能与手艺/厨艺与烹饪/国际厨艺竞赛/烹饪比赛与赛事",
+    "技能与手艺/厨艺与烹饪/国际厨艺竞赛/名厨大赛",
+    "技能与手艺/厨艺与烹饪/国际厨艺竞赛/美食比赛与评审",
+    "技能与手艺/厨艺与烹饪/国际厨艺竞赛",
+    "技能与手艺/厨艺与烹饪/餐饮业与经营管理/餐厅运营管理",
+    "技能与手艺/厨艺与烹饪/餐饮业与经营管理/菜单设计与创新",
+    "技能与手艺/厨艺与烹饪/餐饮业与经营管理/厨师团队管理",
+    "技能与手艺/厨艺与烹饪/餐饮业与经营管理",
+    "技能与手艺/厨艺与烹饪/烹饪工艺与创新/传统与现代的结合",
+    "技能与手艺/厨艺与烹饪/烹饪工艺与创新/创新烹饪方法",
+    "技能与手艺/厨艺与烹饪/烹饪工艺与创新/分子烹饪技术",
+    "demo.md",
+    "科学与技术/生物/9.进化生物学/c.人类起源和演化.md",
+    "科学与技术/生物/9.进化生物学/b.生物多样性的起源和维持.md",
+    "科学与技术/生物/9.进化生物学/a.自然选择和进化机制.md",
+    "科学与技术/生物/9.进化生物学/9.进化生物学.md",
+    "科学与技术/生物/8.生物技术和分子生物学/c.生物信息学和基因组学.md",
+    "科学与技术/生物/8.生物技术和分子生物学/b.DNA技术和PCR.md",
+    "科学与技术/生物/8.生物技术和分子生物学/a.基因工程和转基因技术.md",
+    "科学与技术/生物/8.生物技术和分子生物学/8.生物技术和分子生物学.md",
+    "科学与技术/生物/6.生物的多样性/c.生态系统和生物圈.md",
+    "科学与技术/生物/6.生物的多样性/b.动植物的演化和适应.md",
+    "科学与技术/生物/6.生物的多样性/a.分类学基础.md",
+    "科学与技术/生物/6.生物的多样性/6.生物的多样性.md",
+    "科学与技术/生物/7.生理学基础/c.神经系统和内分泌系统.md",
+    "科学与技术/生物/7.生理学基础/b.免疫系统和免疫应答.md",
+    "科学与技术/生物/7.生理学基础/a.植物生理学和动物生理学.md",
+    "科学与技术/生物/7.生理学基础/7.生理学基础.md",
+    "科学与技术/生物/4.遗传学基础/c.突变和遗传变异.md",
+    "科学与技术/生物/4.遗传学基础/b.遗传信息的传递.md",
+    "科学与技术/生物/4.遗传学基础/a.遗传物质DNA和RNA.md",
+    "科学与技术/生物/4.遗传学基础/4.遗传学基础.md",
+    "科学与技术/生物/5.细胞生物学/c.凋亡和细胞分化.md",
+    "科学与技术/生物/5.细胞生物学/b.细胞信号传导.md",
+    "科学与技术/生物/5.细胞生物学/a.细胞分裂和细胞周期.md",
+    "科学与技术/生物/5.细胞生物学/5.细胞生物学.md",
+    "未命名.canvas",
+    "自然科学/物理学/未命名.canvas",
+    "images/Pasted image 20231022004843.png"
+  ]
+}

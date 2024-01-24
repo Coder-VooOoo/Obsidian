@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ff0000",
+  "theme": "moonstone",
+  "interfaceFontFamily": "",
+  "baseFontSize": 16,
+  "textFontFamily": "微软雅黑",
+  "monospaceFontFamily": "Consolas",
+  "nativeMenus": false,
+  "translucency": true,
+  "cssTheme": "Border"
+}
